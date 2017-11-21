@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <title></title>
+      
+      <style type="text/css">
+        #nxt {
+                font-size: 20px;
+                width: auto;
+                padding: 10px 18px;
+                background-color: black;
+                color: white;
+                border-radius: 20px;
+                margin-left: 43%;
+            }
+            form {
+                border: 3px solid #f1f1f1;
+                width: 40%;
+                margin-left: 30%;
+                margin-top: 2%;
+                margin-bottom: 2%;
+                background-color: black;
+                //opacity: 0.6;
+                filter: opacity(0.69);
+                border-radius: 10px;
+                padding: 5%;
+            }
+
+            input[type=text], input[type=password] {
+                width: 100%;
+                padding: 12px 20px;
+                margin: 8px 0;
+                display: inline-block;
+                border: 1px solid #ccc;
+                box-sizing: border-box;
+                border-radius: 20px;
+                font-size: 15px;
+            }
+            body{
+                background: url("abtus.jpg");
+            }
+            #err{
+                padding-left: 20px;
+                border:none;
+                color:red;
+                background-color: black;
+                filter: opacity(0.69);
+                font-family:'Julius Sans One';
+            }
+      </style>
+</head>
+<body>
+
+      <form action="veriCpwd.php">
+      <input type="password" name="epwd" id = "epwd" placeholder="Enter New Password">
+      <br/>
+      <input type="password" name="cpwd" id = "cpwd" placeholder="Confirm New Password"><p id="err" disabled="disabled"></p>
+      <br/>
+      <input type="Submit" value="Change" id = "nxt" action = "GET">
+      </form>
+</body>
+<script type="text/javascript">
+      var p1 = document.getElementById("epwd");
+      var p2 = document.getElementById("cpwd");
+      var nxt = document.getElementById("nxt");  
+
+      function pwds(e)
+      {
+          if(p1.value!=p2.value)
+          {
+              e.preventDefault();
+              p2.nextSibling.innerHTML = "Passwords don't match";
+          }
+      };
+
+      function empty(e)
+      {
+          p2.nextSibling.setAttribute("innerHTML","");
+      };
+
+      nxt.addEventListener("click",pwds,false);
+      p1.addEventListener("keypress",empty,false);
+      p2.addEventListener("keypress",empty,false);
+</script>
+</html>

@@ -1,0 +1,174 @@
+,Scholarships,,,,,,
+ID,Name,CGPA,Age Limit,Caste,Degree,AMOU,GENDER
+SCH001,Government young scientists,9,19,GENERAL,MSc,"1,00,000",A
+SCH002,Government beti Yojana,9,24,GENERAL,MSc,"2,00,000",F
+SCH003,Mahila vigyaan fund,8,24,GENERAL,MSc,"2,00,000",F
+SCH004,IIT Future scientists Scholarship,8,24,GENERAL,MSc,"2,00,000",A
+SCH005,IIT Kanpur future scientists,7,24,SC/ST/OBC,MSc,"2,00,000",A
+SCH006,IIT Hyderabad future scientists,7,24,SC/ST/OBC,MSc,"2,00,000",A
+SCH007,IISC C V Raman awards,9.5,19,GENERAL,MSc,"1,00,000",A
+SCH008,IISC Delhi Modi funds,9.5,19,GENERAL,MSc,"1,00,000",A
+SCH009,IISC National scientists funds,9.5,19,GENERAL,MSc,"1,00,000",A
+SCH010,IISC Women's scientists drive fund,9.5,19,GENERAL,MSc,"1,01,000",A
+SCH011,Student's association funds,9.5,19,GENERAL,MSc,"1,01,000",A
+SCH012,Student's association genral,8,19,GENERAL,MSc,"1,01,000",A
+SCH013,IISC CNR Rao awards,8,19,GENERAL,MSc,"1,01,000",A
+SCH014,Rajiv gandhi student awards,9,19,GENERAL,MSc,"1,01,000",A
+SCH015,L&T yearly student support,8,19,GENERAL,MSc,"1,01,000",A
+SCH016,Morgan Stanley future Citizens award,8,19,GENERAL,MSc,"1,01,000",A
+SCH017,Morgan Stanley Yearly,8,19,GENERAL,MSc,"1,01,000",A
+SCH018,IBM Women empowerment award,8,19,GENERAL,MSc,"1,01,000",F
+SCH019,IBM yearly,8,19,GENERAL,MSc,"1,01,000",A
+SCH020,Biocon Save the girl child funds,8,19,GENERAL,MSc,"1,02,000",F
+SCH021,Biocon Yearly,8,19,GENERAL,MSc,"1,02,000",A
+SCH022,Jhonson & Jhonson ,8,19,GENERAL,MSc,"1,02,000",A
+SCH023,Medicare Anti bias drive,7,25,SC/ST/OBC,MSc,"2,02,000",A
+SCH024,IITB Monash Research Academy Scholarships 2017,9,25,SC/ST/OBC,MSc,"2,02,000",A
+SCH025,Nehru bright students drive,7,25,SC/ST/OBC,MSc,"2,02,000",A
+SCH026,Intel Generation inspire drive,7,25,SC/ST/OBC,MSc,"2,02,000",A
+SCH027,IBM Youth empowerment,7,27,SC/ST/OBC,MSc,"2,02,000",A
+SCH028,Intel Youth empowerment drive\,9,27,GENERAL,ENG,"2,02,000",A
+SCH029,Intel yearly,9,27,GENERAL,ENG,"2,02,000",A
+SCH030,Intel young minds funds,9,27,GENERAL,ENG,"2,03,000",A
+SCH031,Intel bright minds funds,9,27,GENERAL,ENG,"2,03,000",A
+SCH032,IBM Inspire youth drive,9,27,GENERAL,ENG,"2,03,000",A
+SCH033,IBM Inspire funds,9,27,GENERAL,ENG,"2,03,000",A
+SCH034,IBM Womenspire funds,9,27,GENERAL,ENG,"2,03,000",F
+SCH035,IBM Antipoverty drive,9,27,SC/ST/OBC,ENG,"2,03,000",A
+SCH036,IBM Students motivation drive,9,27,GENERAL,ENG,"2,03,000",A
+SCH037,TCS yearly,9,27,GENERAL,ENG,"2,03,000",A
+SCH038,TCS Inspire the youth funds,9,27,GENERAL,ENG,"2,03,000",A
+SCH039,TCS Higher education funds,9,27,GENERAL,ENG,"2,03,000",A
+SCH040,TCS Women empowerment funds,9,27,GENERAL,ENG,"2,04,000",F
+SCH041,IIT Novel Scholarships,9,27,GENERAL,ENG,"2,04,000",A
+SCH042,IIT Prestige Scholarships,9,27,GENERAL,ENG,"2,04,000",A
+SCH043,IIT Toppers Scholarships,9,27,GENERAL,ENG,"2,04,000",A
+SCH044,IIT Young minds Scholarships,9,27,GENERAL,ENG,"2,04,000",A
+SCH045,IIT Inspire Scholarships,9,27,GENERAL,ENG,"2,04,000",A
+SCH046,IIT Antipoverty drive,9,27,SC/ST/OBC,ENG,"2,04,000",A
+SCH047,IIT Heritage drive,9,27,GENERAL,ENG,"2,04,000",A
+SCH048,IIT Bright Minds Scholarships,9,27,GENERAL,ENG,"2,04,000",A
+SCH049,IIT Rankers Scholarships,9,27,GENERAL,ENG,"2,04,000",A
+SCH050,IIT Inspire The youth,9,27,GENERAL,ENG,"2,05,000",A
+SCH051,IIT Acheivers awards,9,27,GENERAL,ENG,"2,05,000",A
+SCH052,IIT bright future awards,9,27,GENERAL,ENG,"2,05,000",A
+SCH053,Lalit Kala Akademi Scholarship,9,27,GENERAL,ENG,"2,05,000",A
+SCH054,IGCAR JRF,9,27,GENERAL,ENG,"2,05,000",A
+SCH055,Ramanujan Fellowships,9,27,GENERAL,ENG,"2,05,000",A
+SCH056,INSPIRE SHE Scholarships ,9,27,GENERAL,ENG,"2,05,000",F
+SCH057,"Saksham Scholarship by AICTE for Differently Abled Students pursuing Technical Education
+",9,27,GENERAL,ENG,"2,05,000",A
+SCH058,Young India Fellowship Programme,9,27,GENERAL,ENG,"2,05,000",A
+SCH059,VIT University engineers IGNITE Scholarships,9,27,GENERAL,ENG,"2,05,000",A
+SCH060,Engineers association funds,9,27,GENERAL,ENG,"2,06,000",A
+SCH061,Engineers association funds single girl child,9,27,GENERAL,ENG,"2,06,000",F
+SCH062,APJ Abdul kalam engineers funds,9,27,GENERAL,ENG,"2,06,000",A
+SCH063,Nehru student yojana,9.9,27,GENERAL,ENG,"2,06,000",A
+SCH064,Indira Gandhi student yojana,9.9,27,GENERAL,ENG,"2,06,000",A
+SCH065,JBNSTS Senior Scholarship Test 2017,9.9,27,GENERAL,ENG,"2,06,000",A
+SCH066,The Max New York Life Igenius Scholarships,9.9,27,GENERAL,ENG,"2,06,000",A
+SCH067,JN Tata Endowment Scholarships,9.9,27,GENERAL,ENG,"2,06,000",A
+SCH068,British Council IELTS Scholarship ,9.9,27,GENERAL,ENG,"2,06,000",A
+SCH069,Commonwealth Scholarship and Fellowship Plan ,9.9,27,GENERAL,ENG,"2,06,000",A
+SCH070,"Dr Manmohan Singh Scholarships
+
+
+
+
+
+",9.9,27,GENERAL,ENG,"2,07,000",A
+SCH071,Imperial College India Foundation Postgraduate Scholarships 2016,9.9,27,GENERAL,ENG,"2,07,000",A
+SCH072,Charles Wallace India Trust (CWIT) Scholarships,9.9,27,GENERAL,ENG,"2,07,000",A
+SCH073,University of Sussex Scholarships ,9.9,27,GENERAL,ENG,"2,07,000",A
+SCH074,"University, Scotland Scholarships for Indian Subcontinent Students",10,27,GENERAL,ENG,"2,07,000",A
+SCH075,Goa Education Trust Scholarships 2016 (GET),8,30,GENERAL,ENG,"3,07,000",A
+SCH076,Karnataka Buissness Empower trust,8,30,GENERAL,BBA,"3,07,000",A
+SCH077,Delhi National Scholarships,8,30,GENERAL,BBA,"3,07,000",A
+SCH078,Kolkatta Sports Scholarships,8,30,GENERAL,BBA,"3,07,000",A
+SCH079,Inlaks Study Abroad Scholarships,8,30,GENERAL,BBA,"3,07,000",A
+SCH080,"University of Sheffield's Scholarships 2016 for Indian Students
+Edinburgh Napier ",8,30,GENERAL,BBA,"3,08,000",A
+SCH081,IIM Sports Scholarships,8,30,GENERAL,BBA,"3,08,000",A
+SCH082,IIM future buissnessperson award,8,30,GENERAL,BBA,"3,08,000",A
+SCH083,IIM-9,8,30,GENERAL,BBA,"3,08,000",A
+SCH084,IIM-10,8,30,GENERAL,BBA,"3,08,000",A
+SCH085,IIM-11,7,30,GENERAL,BBA,"3,08,000",A
+SCH086,Dr. B.R. AMBEDKAR POST MATRIC SCHOLARSHIP FOR FOR ECONOMICALLY BACKWARD CLASSES (EBC). - TRIPURA,7,30,SC/ST/OBC,BBA,"3,08,000",A
+SCH087,Dr. B.R. AMBEDKAR POST MATRIC SCHOLARSHIP FOR FOR ECONOMICALLY BACKWARD CLASSES (EBC). - KARNATKA,7,30,SC/ST/OBC,BBA,"3,08,000",A
+SCH088,Dr. B.R. AMBEDKAR POST MATRIC SCHOLARSHIP FOR FOR ECONOMICALLY BACKWARD CLASSES (EBC). - GANDHINAGAR,7,30,SC/ST/OBC,BBA,"3,08,000",A
+SCH089,Dr. B.R. AMBEDKAR POST MATRIC SCHOLARSHIP FOR FOR ECONOMICALLY BACKWARD CLASSES (EBC). - DELHI,7,30,SC/ST/OBC,BBA,"3,08,000",A
+SCH090,Dr. B.R. AMBEDKAR POST MATRIC SCHOLARSHIP FOR FOR ECONOMICALLY BACKWARD CLASSES (EBC). - INDORE,7,30,SC/ST/OBC,BBA,"3,09,000",A
+SCH091,Dr. B.R. AMBEDKAR POST MATRIC SCHOLARSHIP FOR FOR ECONOMICALLY BACKWARD CLASSES (EBC). - ODISSA,7,30,SC/ST/OBC,BBA,"3,09,000",A
+SCH092,Dr. B.R. AMBEDKAR POST MATRIC SCHOLARSHIP FOR FOR ECONOMICALLY BACKWARD CLASSES (EBC). - KERALA,7,30,SC/ST/OBC,BBA,"3,09,000",A
+SCH093,Dr. B.R. AMBEDKAR POST MATRIC SCHOLARSHIP FOR FOR ECONOMICALLY BACKWARD CLASSES (EBC). - ASSAM,7,25,SC/ST/OBC,BBA,"2,09,000",A
+SCH094,Dr. B.R. AMBEDKAR POST MATRIC SCHOLARSHIP FOR FOR ECONOMICALLY BACKWARD CLASSES (EBC). MAHARASHTRA,7,25,SC/ST/OBC,BBA,"2,09,000",A
+SCH095,Dr. B.R. AMBEDKAR POST MATRIC SCHOLARSHIP FOR FOR ECONOMICALLY BACKWARD CLASSES (EBC). NATIONAL,7,25,SC/ST/OBC,BBA,"2,09,000",A
+SCH096,Dr. B.R. AMBEDKAR POST MATRIC SCHOLARSHIP FOR FOR ECONOMICALLY BACKWARD CLASSES (EBC). - STATE LEVEL,7,25,SC/ST/OBC,BBA,"2,09,000",A
+SCH097,IBM future entrepreneur,7,25,SC/ST/OBC,BBA,"2,09,000",A
+SCH098,HCL future entrepreneur,9,22,GENERAL,BBA,"2,09,000",A
+SCH099,BOSH future entrepreneur,9,22,GENERAL,BBA,"2,09,000",A
+SCH100,L&T future entrepreneur,9,22,GENERAL,BBA,"2,10,000",A
+SCH101,Sunsilk future entrepreneur,9,22,GENERAL,BBA,"2,10,000",A
+SCH102,IBM buinsness minds,9,22,GENERAL,BBA,"2,10,000",A
+SCH103,Jhonson & Jhonson future entrepreneur,9,22,GENERAL,BBA,"2,10,000",A
+SCH104,IIM-yearly fellowships,9,22,GENERAL,BBA,"2,10,000",A
+SCH105,IIM-toppers awards,9,22,GENERAL,BBA,"2,10,000",A
+SCH106,IIM-rankers awards,9,22,GENERAL,BBA,"2,10,000",A
+SCH107,IIM-Ignite,9,22,GENERAL,BBA,"2,10,000",A
+SCH108,IIM-Inspire SHE,9,22,GENERAL,BBA,"2,10,000",F
+SCH109,NIT-ramanujan funds,9,22,GENERAL,ENG,"2,10,000",A
+SCH110,NIT  future engineers Scholarships,9,22,GENERAL,ENG,"2,11,000",A
+SCH111,NIT Academy Scholarships,9,22,GENERAL,ENG,"2,11,000",A
+SCH112,NIT Sports Empower Scholarships,9,22,GENERAL,ENG,"2,11,000",A
+SCH113,NIT student engineers funds,9,22,GENERAL,ENG,"2,11,000",A
+SCH114,NIT Bright future Scholarships,9,22,GENERAL,ENG,"2,11,000",A
+SCH115,NIT JRE II Scholarship,9,22,GENERAL,ENG,"2,11,000",A
+SCH116,NIT Insights Scholarships,9,22,GENERAL,ENG,"2,11,000",A
+SCH117,NIT SOTY Scholarships,9,22,GENERAL,ENG,"2,11,000",A
+SCH118,NIT Statewise rankers Scholarships,9,22,GENERAL,ENG,"2,11,000",A
+SCH119,NIT India Now scholarships,9,22,GENERAL,ENG,"2,11,000",A
+SCH120,NIT For a netter tomorrow Scholarships,9,22,GENERAL,ENG,"2,12,000",A
+SCH121,Swami Vivekananda Single Girl Child Scholarship for ,7,22,GENERAL,ENG,"2,12,000",F
+SCH122,Pragati Scholarship by AICTE for Women pursuing Technical Education,7,22,SC/ST/OBC,ENG,"2,12,000",F
+SCH123,"Fair and Lovely Scholarship for Women
+
+",7,22,SC/ST/OBC,ENG,"2,12,000",F
+SCH124,Fellowship Scheme,7,22,SC/ST/OBC,ENG,"2,12,000",A
+SCH125,Science Scholarship 2017,7,22,SC/ST/OBC,ENG,"2,12,000",A
+SCH126,Shell Junior National ,6,22,SC/ST/OBC,ENG,"2,12,000",A
+SCH127,"SBI Youth for India Scholarship, 2017",6,23,SC/ST/OBC,ENG,"2,12,000",A
+SCH128,"Sitaram Jindal Research 
+
+",6,23,SC/ST/OBC,ENG,"2,12,000",A
+SCH129,"Rajiv Gandhi National Fellowship for SC Candidate
+",6,23,SC/ST/OBC,ENG,"2,12,000",A
+SCH130,Rajiv Gandhi National Fellowship for ST Candidates,6,23,SC/ST/OBC,ENG,"2,13,000",A
+SCH131,Pre Matric Scholarship for Delhi's Scheduled Caste (SC) students,6,23,SC/ST/OBC,ENG,"2,13,000",A
+SCH132,National Fellowship for OBC Candidate,7,23,SC/ST/OBC,ENG,"2,13,000",A
+SCH133,NIT -Azad yojana,8,23,GENERAL,ENG,"2,13,000",A
+SCH134,NIT  Ignite Scholarships,8,23,GENERAL,ENG,"2,13,000",A
+SCH135,NIT -state toppers,8,23,GENERAL,ENG,"2,13,000",A
+SCH136,NIT -Anti poverty drive,8,23,GENERAL,ENG,"2,13,000",A
+SCH137,SICI Doctoral Research Fellowships,8,23,GENERAL,ENG,"2,13,000",A
+SCH138, Narottam Sekhsaria Foundation PG scholarship,8,23,GENERAL,ENG,"2,13,000",A
+SCH139,Maulana Azad National Scholarship for Girls (Minorities),8,23,GENERAL,ENG,"2,13,000",F
+SCH140,VIT University IGNITE Scholarships,8,23,GENERAL,ENG,"2,14,000",A
+SCH141,"
+IOCL (Indian Oil) S",8,23,GENERAL,ENG,"2,14,000",A
+SCH142,Dr DC Pavate Memorial Fellowships,8,23,GENERAL,ENG,"2,14,000",A
+SCH143,Ministry of Culture Scholarships for Young Artistes 2017-2018,8,23,GENERAL,ENG,"2,14,000",A
+SCH144,MICA Ahmedabad Fellowship Program,8,23,GENERAL,ENG,"2,14,000",A
+SCH145,"IndianOil Sports Scholarship, 2017",8,23,GENERAL,ENG,"2,14,000",A
+SCH146,HCL -Inspire the young Scholarship,8,23,GENERAL,ENG,"2,14,000",A
+SCH147,NIT -Inspire the young Scholarship,8,23,GENERAL,ENG,"2,14,000",A
+SCH148,NIT -Bright Ideas Scholarships,8,23,GENERAL,ENG,"2,14,000",A
+SCH149,NIT -Womens empowerment funds,8,23,GENERAL,ENG,"2,14,000",F
+SCH150,NIT -Bright minds Scholarship,8,23,GENERAL,ENG,"2,15,000",A
+SCH151,NIT -Delhi Youth funds,8,23,GENERAL,ENG,"2,15,000",A
+SCH152,NIT -Suratkal Youth Funds,8,23,GENERAL,ENG,"2,15,000",A
+SCH153,NIT -Kolkatta Youth Funds,8,23,GENERAL,ENG,"2,15,000",A
+SCH154,NIT -Hyderabad Youth funds,8,23,GENERAL,ENG,"2,15,000",A
+SCH155,NIT -CNR Rao Scholarship,8,23,GENERAL,ENG,"2,15,000",A
+SCH156,NIT -Youth drive funds,8,23,GENERAL,ENG,"2,15,000",A
+SCH157,NIT -Future citizens Scholarshi,8,23,GENERAL,ENG,"2,15,000",A
+SCH158,NIT -Bright minds Scholarship,8,23,GENERAL,ENG,"2,15,000",A

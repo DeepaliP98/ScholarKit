@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href='https://fonts.googleapis.com/css?family=Covered By Your Grace' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Julius Sans One' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Covered By Your Grace' rel='stylesheet'>
+         <link href='https://fonts.googleapis.com/css?family=Julius Sans One' rel='stylesheet'>
+         <link href='https://fonts.googleapis.com/css?family=Carrois Gothic SC' rel='stylesheet'>
+         <link href='https://fonts.googleapis.com/css?family=Chau Philomene One' rel='stylesheet'>
+         <link href='https://fonts.googleapis.com/css?family=Chivo' rel='stylesheet'>
+         <link href='https://fonts.googleapis.com/css?family=Cantora One' rel='stylesheet'>
+
+
+<style> 
+body {
+  margin: 0;
+  background: url("abtus.jpg");
+}
+#list_bar{
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #393B3A;
+    font-family:'Julius Sans One';
+    color:#C6B9BE;
+    margin:0;
+    padding:0;
+}
+
+li {
+    float: left;
+    color:#C6B9BE;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+div.name{
+     background-color:#393B3A;
+     color:#C6B9BE;
+     font-size:300%;
+     font-family:'Julius Sans One';
+     padding-bottom:0.1%;
+     width:100%;
+               }
+
+img.logo{height:60px;
+    }
+#move{
+    width: 250px;
+    height: 250px;
+    border: 2px solid black;
+    border-radius: 5px;
+    position:relative;
+    margin-top:10px;
+    margin-left: 400px;
+    animation-name: moveit;
+    animation-duration: 5s;
+}
+#deepali{
+    width: 250px;
+    height: 250px;
+    border: 3px solid black;
+    filter: opacity(0.9);
+    border-radius: 5px;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 652px;
+    background-image: url("deepali.jpg");
+    animation-name: show1;
+    animation-duration: 5s;
+}
+#deepaliinf{
+    width: 350px;
+    height: 250px;
+    border: 3px solid black;
+    filter: opacity(0.8);
+    font-size:15px;
+    border-radius: 3.5px;
+    position: absolute;
+    font-family: 'Sofia';
+    margin-top: 8px;
+    margin-left: 922px;
+    background-color: black;
+    color:#C1ABB4;
+    animation-name: show1;
+    animation-duration: 5s;
+}
+#aparna{
+    width: 250px;
+    height: 250px;
+    border: 3px solid black;
+    filter: opacity(0.9);
+    border-radius: 5px;
+    position:absolute;
+    margin-top: 0;
+    margin-left:652px;
+    background-image: url("aparna.jpg");
+    animation-name: show2;
+    animation-duration: 5s;
+}
+#aparnainf{
+    width: 350px;
+    height: 250px;
+    border: 3px solid black;
+    filter: opacity(0.8);
+    font-size:15px;
+    border-radius: 5px;
+    position:absolute;
+    margin-top: 5px;
+    color:white;
+    margin-left:922px;
+    background-color:black;
+    animation-name: show2;
+    animation-duration: 5s;
+}
+#disha{
+    width: 250px;
+    height: 250px;
+    border: 3px solid black;
+    filter: opacity(1);
+    border-radius: 5px;
+    position:absolute;
+    margin-top: 0;
+    margin-left:400px;
+    background-image: url("disha.jpg");
+    animation:show3;
+    animation-duration: 5s;
+}
+#dishainf{
+    width: 350px;
+    height: 250px;
+    border: 3.5px solid black;
+    filter: opacity(0.8);
+    font-size:15px;
+    border-radius: 2px;
+    position:absolute;
+    margin-top: 5px;
+    color:white;
+    margin-left:25px;
+    background-color: black;
+    animation-name: show4;
+    animation-duration: 5s;
+}
+#black{
+    width: 250px;
+    height: 250px;
+    border: 3px solid black;
+    filter: opacity(0.9);
+    border-radius: 5px;
+    position:absolute;
+    margin-top: 10px;
+    margin-left:400px;
+    color:white;
+    text-align:center;
+    background-image: url("block.jpg")
+}
+#blackinf{
+    width: 350px;
+    height: 250px;
+    border: 3px solid black;
+    filter: opacity(0.8);
+    border-radius: 5px;
+    font-family: 'Sofia';
+    position:absolute;
+    color:white;
+    margin-top: 10px;
+    margin-left:25px;
+    color:white;
+    text-align:center;
+    background-color: black;
+}
+@keyframes show4{
+       0%   {filter: opacity(0);}
+    25%  {filter: opacity(0);}
+    50%  {filter: opacity(0);}
+    75%  {filter: opacity(0);}
+    98% {filter: opacity(0.8);}
+}
+@keyframes show3{
+       0%   {filter: opacity(0);}
+    25%  {filter: opacity(0);}
+    50%  {filter: opacity(0);}
+    75%  {filter: opacity(0);}
+    98% {filter: opacity(0.8);}
+}
+pre{font-family:'Covered By Your Grace';}
+@keyframes show1{
+       0%   {filter: opacity(0);}
+    25%  {filter: opacity(0);}
+    50%  {filter: opacity(0);}
+    68%  {filter: opacity(0.8);}
+    100% {filter: opacity(0.8);}
+}
+@keyframes show2{
+       0%   {filter: opacity(0);}
+    25%  {filter: opacity(0);}
+    47%  {filter: opacity(0.8);}
+    68%  {filter: opacity(0.8);}
+    100% {filter: opacity(0.8);}
+}
+@keyframes moveit{
+    0%   {left:0px; top:0px;}
+    25%  {left:250px; top:252px;}
+    50%  {left:250px; top:0px;}
+    75%  {left:0px; top:252px;}
+    100% {left:0px; top:0px;}
+}
+</style>
+</head>
+<body>
+    <div class="name"><img src="logo.png" class="logo"></img>Scholarkit</div>
+<ul id="list_bar">
+  <li><a class="nav" href="home.php">Home</a></li>
+  <li><a class="nav" href="scorlarship.php"> Scholarships</a></li>
+  <li><a class="nav" href="internship.php"> Internships</a></li>
+  <li><a class="nav" href="Profile.php"> Profile</a></li>
+  <li><a class="nav" href="emo.html">Contact us</a></li>
+  <li><a class="nav" href="about us.html">About us</a></li>
+</ul>
+<div id="deepali"></div>
+<div id="deepaliinf"><pre>
+
+
+
+             Name:Deepali Prabhu
+             USN:01FB16ECS107
+             Section:B
+             Semester:3</pre></div>
+<div id="black"></div>
+<div id="blackinf" ><pre>
+
+
+ Our objective was to build a website that 
+ would help students avail scholarships 
+ they deserve.Studies show that about 76%
+ of the students are unaware of the scholarship
+ and internship opportunities by the govenrnment
+ and various other intitutes hence this website
+ will help students to not miss out
+ on these opportunities.</pre>
+                        </div>
+<div id="move"></div>
+<div id="disha"></div>
+<div id="dishainf"><pre>
+
+
+
+           Name:Disha Aravind
+           USN:01FB16ECS115
+           Section:B
+           Semester:3</pre></div>
+<div id="aparna"></div>
+<div id="aparnainf"><pre>
+
+
+
+             Name:Aparna D V S
+             USN:01FB16ECS068
+             Section:B
+             Semester:3</pre></div>
+</body>
+<script type="text/javascript">
+</script>
+</html>

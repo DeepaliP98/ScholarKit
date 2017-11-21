@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<!-- This page accepts each new qualification -->
+<html>
+<head>
+	<meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+</head>
+<style>
+ body{
+                background: url("abtus.jpg");
+            }
+
+
+  form {
+  				margin:0 auto;
+                border: 3px solid #f1f1f1;
+                width: 60%;
+                margin-bottom: 2%;
+                background-color: black;
+                //opacity: 0.6;
+                filter: opacity(0.69);
+                border-radius: 10px;
+                padding: 5%;
+            }
+
+            input[type=text], input[type=password] {
+                width: 100%;
+                padding: 12px 20px;
+                margin: 8px 0;
+                display: inline-block;
+                border: 1px solid #ccc;
+                box-sizing: border-box;
+                border-radius: 20px;
+                font-size: 15px;
+                outline: none;
+            }
+            #add{
+            	font-size: 20px;
+                width: auto;
+                padding: 10px 18px;
+                background-color: black;
+                color: white;
+                border-radius: 20px;
+                margin-left: 43%;
+            }
+</style>
+<body>
+	<div id="container">
+	<form action="veriQ.php">
+		<input type="text" id = "exam" name="exam" placeholder="Exam Name">
+		<br/>
+		<input type="text" id = "rank" name="rank" placeholder="Enter Your Rank">
+		<br/>
+		<input type="text" id = "grd" name="grade" placeholder="Enter Your Grade">
+		<br/>
+		<input type="text" id = "per" name="per" placeholder="Enter Your Percentage or Percentile">
+		<br/>
+		<input type="submit" value="ADD" id = "add">
+	</form>
+</div>
+</body>
+<script type="text/javascript">
+	var e = document.getElementById("exam");
+	var r = document.getElementById("rank");
+	var g = document.getElementById("grade");
+	var p = document.getElementById("per");
+	var ad = document.getElementById("add");
+
+	var obj1 = {
+		check: function(e)
+		{
+			if(e.value == ""||g.value == ""||p.value == "")
+			{
+				alert("Invalid Entry");
+				e.preventDefault();
+			}
+		},
+		noalpha: function(e)
+		{
+			var ch = e.key ;
+			if(ch>='0' && ch<='9')
+			{}
+			else
+			{
+				e.preventDefault();
+			}
+		}
+	};
+
+	ad.addEventListener("click",obj1.check,false);
+	r.addEventListener("keypress",obj1.noalpha,false);
+	p.addEventListener("keypress",obj1.noalpha,false);
+</script>
+</html>

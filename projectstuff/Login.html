@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<!-- This page accepts login details-->
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet'>
+         <link href='https://fonts.googleapis.com/css?family=Julius Sans One' rel='stylesheet'>
+</head>
+	<title></title>
+    <style type="text/css"> 
+    *{
+        margin:0;
+        padding: 0;
+    } 
+#list_bar{
+    position:relative;
+    list-style-type: none;
+    margin-top:0;
+    width:100%;
+    padding:0;
+    color:#C6B9BE;
+    overflow: hidden;
+    font-family:'Julius Sans One';
+    background-color: #393B3A;
+}
+
+li.nav{
+    float: left;
+    font-family:'Julius Sans One';
+    color:#C6B9BE;
+}
+
+li.nav a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+//header
+li.nav a:hover {
+    background-color: #111;
+}
+#title{
+width:100%;
+height:10%;
+background-color:#900C3F;
+position:relative;
+padding:1%;
+opacity:0.6;
+}
+div.name{margin: 0;
+     position:relative;
+     background-color:#393B3A;
+     color:#fff;
+     font-size:400%;
+     font-family:'Julius Sans One';
+     //padding-bottom:3%;
+     width:100%;
+               }
+.logo
+{
+    width: 80px;
+    height: 80px;
+    }
+            form {
+                border: 3px solid #f1f1f1;
+                width: 40%;
+                margin-left: 30%;
+                margin-top: 2%;
+                margin-bottom: 2%;
+                background-color: black;
+                //opacity: 0.6;
+                filter: opacity(0.69);
+                border-radius: 10px;
+            }
+
+            input[type=text], input[type=password] {
+                width: 100%;
+                padding: 12px 20px;
+                margin: 8px 0;
+                display: inline-block;
+                border: 1px solid #ccc;
+                box-sizing: border-box;
+                border-radius: 20px;
+                font-size: 15px;
+            }
+
+            button {
+                background-color: #4CAF50;
+                color: white;
+                padding: 14px 20px;
+                margin: 8px 0;
+                border: none;
+                cursor: pointer;
+                width: 100%;
+            }
+
+            button:hover {
+                opacity: 0.8;
+            }
+
+            #nxt {
+                font-size: 20px;
+                width: auto;
+                padding: 10px 18px;
+                background-color: black;
+                color: white;
+                border-radius: 20px;
+                margin-left: 43%;
+            }
+
+            .imgcontainer {
+                text-align: center;
+                margin: 24px 0 12px 0;
+            }
+
+            img.avatar {
+                width: 40%;
+                border-radius: 50%;
+            }
+
+            .container {
+                padding: 16px;
+            }
+
+            span.psw {
+                float: right;
+                padding-top: 16px;
+            }
+            body{
+                background: url("abtus.jpg");
+            }
+            h3{
+              font-size: 25px;
+              padding: 10px 18px;
+              background-color: black;
+              color: white;
+              font-family: 'Julius Sans One';
+            }
+            /* Change styles for span and cancel button on extra small screens */
+            @media screen and (max-width: 300px) {
+                span.psw {
+                   display: block;
+                   float: none;
+                }
+            }
+            .gotoLog{
+              color: white;
+              font-family:'Julius Sans One';
+            }
+            .gotoLog1{
+              color: white;
+              padding-top: 5%;
+              padding-bottom: 3%;
+              margin-left: 25%;
+              font-family:'Julius Sans One';
+            }
+
+    </style>
+</head>
+<body>
+    <div class="name"><img src="logo.png" class="logo"></img>Scholarkit</div>
+<ul id="list_bar">
+  <li class="nav"><a  href="home.php">Home</a></li>
+  <li class="nav"><a  href="scorlarship.php"> Scholarships</a></li>
+  <li class="nav"><a  href="internship.php"> Internships</a></li>
+  <li class="nav"><a  href="Profile.php"> Profile</a></li>
+  <li class="nav"><a href="emo.html">Contact us</a></li>
+  <li class="nav"><a  href="about us.html">About us</a></li>
+</ul>
+
+    
+	<form action="log.php">
+        <div class="imgcontainer">
+            <img src="default-user.png" alt="Avatar" class="avatar">
+        </div>
+
+        <div id = "log" class = "container">
+            <h3>Log In</h3>
+        <input type="text" name="fname" id="fname" placeholder="First name">
+        <br/>
+        <input type="text" name="lname" id="lname" placeholder="Last name">
+        <br/>
+        <input type="password" name="epwd" id = "epwd" placeholder="Enter Your Password">
+        <br/>
+        <input type="Submit" value="Login" id = "nxt" action = "GET">
+        <br/>
+            <p class = "gotoLog1">New To ScholarKit?<a href="Sign Up.html" class="gotoLog">Sign Up</a></p>
+        </div>
+
+    </form>
+    </body>
+</html>
